@@ -37,8 +37,3 @@ http://localhost:5173
 ## Usage
 - Select a category or use the search bar to find news articles.
 - Click on “Read more” to view full stories in new tabs.
-
-## Future Improvements
-- Add user authentication and personalized news feeds
-- Support for more languages
-- Dark mode and theme customization
