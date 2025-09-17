@@ -13,10 +13,10 @@ NewsApp is a web application that fetches and displays the latest news articles 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Saraniya2006/Insight-Stream.git
 
 2. Navigate to the project folder:
-cd your-repo-name
+cd Insight-Stream
 
 3. Install dependencies:
 npm install
