@@ -27,7 +27,7 @@ export default function Home() {
   const [totalResults, setTotalResults] = useState(0);
   const [loading, setLoading] = useState(false);
 
-  const apiKey = "6a9e9bdd2a604a07ad85a027bbf9a7c8";
+  const apiKey = "247e5259d85d471a81d5c8352a72de6d";
 
   useEffect(() => {
     const fetchNews = async () => {
@@ -142,3 +142,4 @@ export default function Home() {
     </div>
   );
 }
+
